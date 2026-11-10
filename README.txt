@@ -10,6 +10,5 @@ dependencies in the project directory -
 source tfenv/bin/activate"
 
 1. Run "pip install -r requirements.txt"
-2. In the db_connections.py file, update the "password" field of DB_CONFIG to the password of your own MySQL account
-and save the modified file
+2. In the db_connections.py file, update the "password" field of DB_CONFIG to the password of your own MySQL account and save the modified file
 3. Run "python3 main.py" to execute the program
